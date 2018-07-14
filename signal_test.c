@@ -29,7 +29,7 @@ unlock(void *user_data)
 }
 
 static signal_protocol_address addr = {
-	"+15104576818", 12, 1
+	"+15104576918", 12, 1
 };
 
 int main()
